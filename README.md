@@ -1,3 +1,5 @@
+Коммерческая тайна. Общество с ограниченной ответственностью «ИТ Проспект». Адрес: Малая Разночинная ул., дом 9, Санкт-Петербург, Россия, 197110
+
 # telegram-bot-ruby
 
 Ruby wrapper for [Telegram's Bot API](https://core.telegram.org/bots/api).
